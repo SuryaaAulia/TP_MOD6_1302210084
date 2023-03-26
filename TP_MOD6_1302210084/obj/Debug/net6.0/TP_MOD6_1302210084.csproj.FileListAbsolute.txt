@@ -13,3 +13,18 @@ C:\Users\SSS\Documents\KPL\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.
 C:\Users\SSS\Documents\KPL\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.pdb
 C:\Users\SSS\Documents\KPL\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.genruntimeconfig.cache
 C:\Users\SSS\Documents\KPL\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\ref\TP_MOD6_1302210084.dll
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\bin\Debug\net6.0\TP_MOD6_1302210084.exe
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\bin\Debug\net6.0\TP_MOD6_1302210084.deps.json
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\bin\Debug\net6.0\TP_MOD6_1302210084.runtimeconfig.json
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\bin\Debug\net6.0\TP_MOD6_1302210084.dll
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\bin\Debug\net6.0\TP_MOD6_1302210084.pdb
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.csproj.AssemblyReference.cache
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.AssemblyInfoInputs.cache
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.AssemblyInfo.cs
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.csproj.CoreCompileInputs.cache
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.dll
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\refint\TP_MOD6_1302210084.dll
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.pdb
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\TP_MOD6_1302210084.genruntimeconfig.cache
+C:\Users\surya\Documents\KPL Praktikum\TP_MOD6_1302210084\TP_MOD6_1302210084\obj\Debug\net6.0\ref\TP_MOD6_1302210084.dll
